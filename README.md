@@ -1,6 +1,6 @@
 # Become-the-SalesKing
 POS기를 이용한 스토리텔링 게임 : "매출왕이 되어라-!!"
-
+<!-- 
 ## Screenshot
 * 메인화면<br>
 <img src="https://user-images.githubusercontent.com/48242362/87907248-31108b00-ca9f-11ea-85c5-a515499f2b7e.png" width="900px"></img>
@@ -17,7 +17,7 @@ POS기를 이용한 스토리텔링 게임 : "매출왕이 되어라-!!"
 * 엔딩화면<br>
 <img src="https://user-images.githubusercontent.com/48242362/87907556-d297dc80-ca9f-11ea-86ad-a771fe6f07c2.png" width="390px"></img>
 <img src="https://user-images.githubusercontent.com/48242362/87907590-df1c3500-ca9f-11ea-9bb4-444534d1c4e1.png" width="390px"></img>
-
+ -->
 ## Built With
 * JAVA
 * JDBC
